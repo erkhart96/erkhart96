@@ -4,7 +4,7 @@
 
 💡 &nbsp;Construction industry worker turned Software Engineeer 🔨\
 🎓 &nbsp;I'm a graduate from Flatiron School's four month Software Engineering bootcamp.\
-🌱 &nbsp;I have done multiple projects ranging from music to video games, where I contributed to front-end and back-end work and also completed some solo projects.\
+🌱 &nbsp;I have done multiple projects ranging from music to video games, where I contributed to front-end and back-end work and also completed some solo projects.
 
 ### 🛠 &nbsp;Tech Stack
 
